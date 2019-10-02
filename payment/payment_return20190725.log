@@ -1,0 +1,176 @@
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-25 01:55:10 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => ken20001207
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1563895954
+    [PaymentDate] => 2019/07/23 23:34:23
+    [PaymentType] => ATM_CHINATRUST
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 30
+    [TradeDate] => 2019/07/23 23:32:33
+    [TradeNo] => 1907232332338456
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-25 02:00:43 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => ken20001207
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1563893132
+    [PaymentDate] => 2019/07/23 22:47:52
+    [PaymentType] => ATM_CHINATRUST
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 30
+    [TradeDate] => 2019/07/23 22:45:31
+    [TradeNo] => 1907232245315491
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-25 06:50:20 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => ken20001207
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1563893132
+    [PaymentDate] => 2019/07/23 22:47:52
+    [PaymentType] => ATM_CHINATRUST
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 30
+    [TradeDate] => 2019/07/23 22:45:31
+    [TradeNo] => 1907232245315491
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-25 06:50:56 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => ken20001207
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1563895954
+    [PaymentDate] => 2019/07/23 23:34:23
+    [PaymentType] => ATM_CHINATRUST
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 30
+    [TradeDate] => 2019/07/23 23:32:33
+    [TradeNo] => 1907232332338456
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-25 14:15:21 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => ken20001207
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1563895954
+    [PaymentDate] => 2019/07/23 23:34:23
+    [PaymentType] => ATM_CHINATRUST
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 30
+    [TradeDate] => 2019/07/23 23:32:33
+    [TradeNo] => 1907232332338456
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-25 14:20:23 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => ken20001207
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1563893132
+    [PaymentDate] => 2019/07/23 22:47:52
+    [PaymentType] => ATM_CHINATRUST
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 30
+    [TradeDate] => 2019/07/23 22:45:31
+    [TradeNo] => 1907232245315491
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-25 21:20:12 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => ken20001207
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1563895954
+    [PaymentDate] => 2019/07/23 23:34:23
+    [PaymentType] => ATM_CHINATRUST
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 30
+    [TradeDate] => 2019/07/23 23:32:33
+    [TradeNo] => 1907232332338456
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-25 21:25:14 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => ken20001207
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1563893132
+    [PaymentDate] => 2019/07/23 22:47:52
+    [PaymentType] => ATM_CHINATRUST
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 30
+    [TradeDate] => 2019/07/23 22:45:31
+    [TradeNo] => 1907232245315491
+)
+
+更新資料庫成功

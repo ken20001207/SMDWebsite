@@ -1,0 +1,638 @@
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 00:40:23 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => qaz34367929
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564477239
+    [PaymentDate] => 2019/07/30 17:03:00
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 250
+    [TradeDate] => 2019/07/30 17:00:39
+    [TradeNo] => 1907301700397740
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 01:45:04 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Tsaiouob
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564366914
+    [PaymentDate] => 2019/07/29 21:58:17
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 400
+    [TradeDate] => 2019/07/29 10:21:54
+    [TradeNo] => 1907291021544808
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 02:10:32 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => qaz34367929
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564390660
+    [PaymentDate] => 2019/07/29 17:00:19
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 1500
+    [TradeDate] => 2019/07/29 16:57:39
+    [TradeNo] => 1907291657394443
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 02:50:35 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Chen817XDD
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564361845
+    [PaymentDate] => 2019/07/29 09:02:13
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 1000
+    [TradeDate] => 2019/07/29 08:57:25
+    [TradeNo] => 1907290857259289
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 03:00:46 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => CookieDaniel
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564331412
+    [PaymentDate] => 2019/07/29 00:38:59
+    [PaymentType] => ATM_CATHAY
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 1000
+    [TradeDate] => 2019/07/29 00:30:12
+    [TradeNo] => 1907290030121153
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 03:30:07 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Chen817XDD
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564303135
+    [PaymentDate] => 2019/07/28 16:57:21
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 400
+    [TradeDate] => 2019/07/28 16:38:55
+    [TradeNo] => 1907281638555726
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 04:51:04 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => qaz34367929
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564477239
+    [PaymentDate] => 2019/07/30 17:03:00
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 250
+    [TradeDate] => 2019/07/30 17:00:39
+    [TradeNo] => 1907301700397740
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 05:50:03 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Tsaiouob
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564366914
+    [PaymentDate] => 2019/07/29 21:58:17
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 400
+    [TradeDate] => 2019/07/29 10:21:54
+    [TradeNo] => 1907291021544808
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 06:15:53 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => qaz34367929
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564390660
+    [PaymentDate] => 2019/07/29 17:00:19
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 1500
+    [TradeDate] => 2019/07/29 16:57:39
+    [TradeNo] => 1907291657394443
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 06:50:09 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Chen817XDD
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564361845
+    [PaymentDate] => 2019/07/29 09:02:13
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 1000
+    [TradeDate] => 2019/07/29 08:57:25
+    [TradeNo] => 1907290857259289
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 07:06:11 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => CookieDaniel
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564331412
+    [PaymentDate] => 2019/07/29 00:38:59
+    [PaymentType] => ATM_CATHAY
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 1000
+    [TradeDate] => 2019/07/29 00:30:12
+    [TradeNo] => 1907290030121153
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 07:40:50 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Chen817XDD
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564303135
+    [PaymentDate] => 2019/07/28 16:57:21
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 400
+    [TradeDate] => 2019/07/28 16:38:55
+    [TradeNo] => 1907281638555726
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 09:10:46 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => qaz34367929
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564477239
+    [PaymentDate] => 2019/07/30 17:03:00
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 250
+    [TradeDate] => 2019/07/30 17:00:39
+    [TradeNo] => 1907301700397740
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 10:30:07 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Tsaiouob
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564366914
+    [PaymentDate] => 2019/07/29 21:58:17
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 400
+    [TradeDate] => 2019/07/29 10:21:54
+    [TradeNo] => 1907291021544808
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 11:00:16 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => qaz34367929
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564390660
+    [PaymentDate] => 2019/07/29 17:00:19
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 1500
+    [TradeDate] => 2019/07/29 16:57:39
+    [TradeNo] => 1907291657394443
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 12:00:30 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Chen817XDD
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564361845
+    [PaymentDate] => 2019/07/29 09:02:13
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 1000
+    [TradeDate] => 2019/07/29 08:57:25
+    [TradeNo] => 1907290857259289
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 12:15:43 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => CookieDaniel
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564331412
+    [PaymentDate] => 2019/07/29 00:38:59
+    [PaymentType] => ATM_CATHAY
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 1000
+    [TradeDate] => 2019/07/29 00:30:12
+    [TradeNo] => 1907290030121153
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 13:00:26 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Chen817XDD
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564303135
+    [PaymentDate] => 2019/07/28 16:57:21
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 400
+    [TradeDate] => 2019/07/28 16:38:55
+    [TradeNo] => 1907281638555726
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 15:35:47 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => qaz34367929
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564477239
+    [PaymentDate] => 2019/07/30 17:03:00
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 250
+    [TradeDate] => 2019/07/30 17:00:39
+    [TradeNo] => 1907301700397740
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 17:10:04 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Tsaiouob
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564366914
+    [PaymentDate] => 2019/07/29 21:58:17
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 400
+    [TradeDate] => 2019/07/29 10:21:54
+    [TradeNo] => 1907291021544808
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 17:45:46 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => qaz34367929
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564390660
+    [PaymentDate] => 2019/07/29 17:00:19
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 1500
+    [TradeDate] => 2019/07/29 16:57:39
+    [TradeNo] => 1907291657394443
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 18:40:16 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Chen817XDD
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564361845
+    [PaymentDate] => 2019/07/29 09:02:13
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 1000
+    [TradeDate] => 2019/07/29 08:57:25
+    [TradeNo] => 1907290857259289
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 19:01:07 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => CookieDaniel
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564331412
+    [PaymentDate] => 2019/07/29 00:38:59
+    [PaymentType] => ATM_CATHAY
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 1000
+    [TradeDate] => 2019/07/29 00:30:12
+    [TradeNo] => 1907290030121153
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 19:45:38 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Chen817XDD
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564303135
+    [PaymentDate] => 2019/07/28 16:57:21
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 400
+    [TradeDate] => 2019/07/28 16:38:55
+    [TradeNo] => 1907281638555726
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 21:57:44 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Haruna_TWK
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564581338
+    [PaymentDate] => 2019/07/31 21:57:20
+    [PaymentType] => WebATM_TAISHIN
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => 交易成功
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 300
+    [TradeDate] => 2019/07/31 21:55:38
+    [TradeNo] => 1907312155384114
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 22:05:16 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Haruna_TWK
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564581338
+    [PaymentDate] => 2019/07/31 21:57:20
+    [PaymentType] => WebATM_TAISHIN
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 300
+    [TradeDate] => 2019/07/31 21:55:38
+    [TradeNo] => 1907312155384114
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 22:10:26 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Haruna_TWK
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564581338
+    [PaymentDate] => 2019/07/31 21:57:20
+    [PaymentType] => WebATM_TAISHIN
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 300
+    [TradeDate] => 2019/07/31 21:55:38
+    [TradeNo] => 1907312155384114
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 22:15:11 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Haruna_TWK
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564581338
+    [PaymentDate] => 2019/07/31 21:57:20
+    [PaymentType] => WebATM_TAISHIN
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 300
+    [TradeDate] => 2019/07/31 21:55:38
+    [TradeNo] => 1907312155384114
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-07-31 22:20:07 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Haruna_TWK
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564581338
+    [PaymentDate] => 2019/07/31 21:57:20
+    [PaymentType] => WebATM_TAISHIN
+    [PaymentTypeChargeFee] => 10
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 300
+    [TradeDate] => 2019/07/31 21:55:38
+    [TradeNo] => 1907312155384114
+)
+
+更新資料庫成功

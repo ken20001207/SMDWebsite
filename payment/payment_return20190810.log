@@ -1,0 +1,110 @@
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-08-10 21:43:42 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Promise_DaiMei
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1565444454
+    [PaymentDate] => 2019/08/10 21:43:41
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => 交易成功
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 500
+    [TradeDate] => 2019/08/10 21:40:53
+    [TradeNo] => 1908102140536034
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-08-10 21:50:28 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Promise_DaiMei
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1565444454
+    [PaymentDate] => 2019/08/10 21:43:41
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 500
+    [TradeDate] => 2019/08/10 21:40:53
+    [TradeNo] => 1908102140536034
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-08-10 21:55:16 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Promise_DaiMei
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1565444454
+    [PaymentDate] => 2019/08/10 21:43:41
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 500
+    [TradeDate] => 2019/08/10 21:40:53
+    [TradeNo] => 1908102140536034
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-08-10 22:00:15 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Promise_DaiMei
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1565444454
+    [PaymentDate] => 2019/08/10 21:43:41
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 500
+    [TradeDate] => 2019/08/10 21:40:53
+    [TradeNo] => 1908102140536034
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-08-10 22:05:05 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => Promise_DaiMei
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1565444454
+    [PaymentDate] => 2019/08/10 21:43:41
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 500
+    [TradeDate] => 2019/08/10 21:40:53
+    [TradeNo] => 1908102140536034
+)
+
+更新資料庫成功

@@ -1,0 +1,88 @@
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-08-04 00:26:52 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => youmoun3637
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564833853
+    [PaymentDate] => 2019/08/03 20:11:12
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 650
+    [TradeDate] => 2019/08/03 20:04:11
+    [TradeNo] => 1908032004115201
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-08-04 04:36:51 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => youmoun3637
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564833853
+    [PaymentDate] => 2019/08/03 20:11:12
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 650
+    [TradeDate] => 2019/08/03 20:04:11
+    [TradeNo] => 1908032004115201
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-08-04 08:52:55 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => youmoun3637
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564833853
+    [PaymentDate] => 2019/08/03 20:11:12
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 650
+    [TradeDate] => 2019/08/03 20:04:11
+    [TradeNo] => 1908032004115201
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-08-04 14:25:22 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => youmoun3637
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1564833853
+    [PaymentDate] => 2019/08/03 20:11:12
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 650
+    [TradeDate] => 2019/08/03 20:04:11
+    [TradeNo] => 1908032004115201
+)
+
+更新資料庫成功

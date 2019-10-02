@@ -1,0 +1,66 @@
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-08-15 04:30:08 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => BloodBurster
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1565551669
+    [PaymentDate] => 2019/08/12 12:49:25
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 1500
+    [TradeDate] => 2019/08/12 03:27:48
+    [TradeNo] => 1908120327482954
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-08-15 10:25:07 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => BloodBurster
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1565551669
+    [PaymentDate] => 2019/08/12 12:49:25
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 1500
+    [TradeDate] => 2019/08/12 03:27:48
+    [TradeNo] => 1908120327482954
+)
+
+更新資料庫成功
++++++++++++++++++++++++++++++++++++++++ 接收回傳參數 2019-08-15 18:55:05 ++++++++++++++++++++++++++++++++++++++++++++
+Array
+(
+    [CustomField1] => BloodBurster
+    [CustomField2] => 
+    [CustomField3] => 
+    [CustomField4] => 
+    [MerchantID] => 1382343
+    [MerchantTradeNo] => 1565551669
+    [PaymentDate] => 2019/08/12 12:49:25
+    [PaymentType] => CVS
+    [PaymentTypeChargeFee] => 30
+    [RtnCode] => 1
+    [RtnMsg] => paid
+    [SimulatePaid] => 0
+    [StoreID] => 
+    [TradeAmt] => 1500
+    [TradeDate] => 2019/08/12 03:27:48
+    [TradeNo] => 1908120327482954
+)
+
+更新資料庫成功
